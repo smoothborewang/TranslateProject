@@ -1,10 +1,10 @@
-Translating by wwhio
+Translating by smoothborewang
 
-Pi Day: 12 fun facts and ways to celebrate
+Pi日: 12 fun facts and ways to celebrate
 ======
 
 ![](https://enterprisersproject.com/sites/default/files/styles/620x350/public/images/cio_piday.png?itok=kTht0qV9)
-Today, tech teams around the world will celebrate a number. March 14 (written 3/14 in the United States) is known as Pi Day, a holiday that people ring in with pie eating contests, pizza parties, and math puns. If the most important number in mathematics wasn’t enough of a reason to reach for a slice of pie, March 14 also happens to be Albert Einstein’s birthday, the release anniversary of Linux kernel 1.0.0, and the day Eli Whitney patented the cotton gin.
+今天, 全世界的技术团队都在庆祝一个数字。众所周知，3月14日 (美国则写作3/14)就是Pi日，一个人们用吃派比赛、披萨派对和数学双关语迎来的节日。如果这个在数学上十分重要的数字还不足以让你来一块派，那么，3月14日还碰巧是艾尔伯特·爱因斯坦的生日，Linux kernel 1.0.0发布的日子，以及伊莱·惠特尼取得轧棉机专利的
 
 In honor of this special day, we’ve rounded up a dozen fun facts and interesting pi-related projects. Master you team’s Pi Day trivia, or borrow an idea or two for a team-building exercise. Do a project with a budding technologist. And let us know in the comments if you are doing anything unique to celebrate everyone’s favorite never-ending number.
 
